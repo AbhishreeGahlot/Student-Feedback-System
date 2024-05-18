@@ -283,7 +283,7 @@
       <br />
     </div>
     <div class="copyright-text">
-      <p>© Copyright Abhishree Gahlot 2024</p>
+      <p>© Copyright Abhishree Gahlot and Anirudh Sharma 2024</p>
     </div>
   </body>
 </html>
